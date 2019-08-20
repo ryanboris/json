@@ -1,0 +1,19 @@
+{
+  "results": {
+    "data": {
+      "problems": [
+        {
+          "problem_title": "title",
+          "problem_category": "category",
+          "problem_description": "lorem ipsum",
+          "date_created": " 123156131684351356351",
+          "created_by": "My Company",
+          "sign_ups": 47,
+          "votes": 135,
+          "deadline": " 123156131684351356351",
+          "chat_room": "flor4"
+        }
+      ]
+    }
+  }
+}
